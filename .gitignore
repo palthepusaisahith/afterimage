@@ -1,0 +1,5 @@
+.claude/
+# your own intro music stays on this computer: never committed, never published
+afterimage/assets/intro-music.mp3
+# test recordings, not part of the site
+recordings/
